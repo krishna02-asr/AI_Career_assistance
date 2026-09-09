@@ -1,0 +1,6 @@
+streamlit==1.38.0
+GROQ
+pypdf==4.3.1
+pandas
+openpyxl==3.1.5
+python-dotenv==1.0.1
