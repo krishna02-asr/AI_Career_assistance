@@ -1,4 +1,4 @@
-🧑‍💼 AI Career Assistant
+AI Career Assistant
 A GenAI-powered app that compares a resume against a job description and gives: match %, matching/missing skills, resume improvement suggestions, tailored interview questions, a chat assistant for follow-up questions, SQLite storage of every past analysis, and CSV/Excel export.
 PART 1 — How to run it (step by step)
 Step 1: Install Python
@@ -88,3 +88,5 @@ Let users compare one resume against multiple job descriptions at once
 Add authentication so multiple users can have separate histories
 Switch SQLite → PostgreSQL for a production deployment
 Deploy on Streamlit Community Cloud for a live demo link on your resume
+it also includes a ATS score calculating feature
+it has also very useful feature where users can upload their resumes and even take mock interviews  with recruiters to get some practice
